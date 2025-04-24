@@ -18,4 +18,9 @@ after that we need to extract files from the downloaded sysmon folder
 
 ![image](https://github.com/user-attachments/assets/6e6ebe64-238f-4a97-88bb-22591d64d0e6)
 
+after that we need to open the powershell on windows machine with admin privileges 
+
+![image](https://github.com/user-attachments/assets/217bd257-29dc-4c55-a479-5af408dcf67d)
+
+
 
