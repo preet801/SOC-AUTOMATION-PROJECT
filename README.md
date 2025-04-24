@@ -14,4 +14,8 @@ following shows the sysmon config file upon opening and then click on raw and th
 
 ![image](https://github.com/user-attachments/assets/5fe7ac93-5fe9-4fb8-a54b-a62ff50b092f)
 
+after that we need to extract files from the downloaded sysmon folder
+
+![image](https://github.com/user-attachments/assets/6e6ebe64-238f-4a97-88bb-22591d64d0e6)
+
 
