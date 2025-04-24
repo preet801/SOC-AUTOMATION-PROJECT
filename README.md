@@ -21,6 +21,13 @@ after that we need to extract files from the downloaded sysmon folder
 after that we need to open the powershell on windows machine with admin privileges 
 
 ![image](https://github.com/user-attachments/assets/217bd257-29dc-4c55-a479-5af408dcf67d)
+then we need to install sysmon using powershell
+![image](https://github.com/user-attachments/assets/60db5769-3090-498d-93c0-6cbc26800215)
+once we have ran the command then we can confirm the installation using services tab which confirms the sysmon installation 
+
+![image](https://github.com/user-attachments/assets/d77ef5f3-0980-4777-b6e0-0b892f127889)
+
+
 
 
 
