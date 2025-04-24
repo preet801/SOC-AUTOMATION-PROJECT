@@ -28,8 +28,13 @@ once we have ran the command then we can confirm the installation using services
 ![image](https://github.com/user-attachments/assets/d77ef5f3-0980-4777-b6e0-0b892f127889)
 
 
+
+
 and then I installed wuzah on my cloud instance using the following command
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+
+![image](https://github.com/user-attachments/assets/f8d3387d-8dd9-4087-bff2-36da7e3c4663)
+
 
 
 
