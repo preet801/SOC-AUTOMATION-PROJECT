@@ -33,7 +33,12 @@ once we have ran the command then we can confirm the installation using services
 and then I installed wuzah on my cloud instance using the following command
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 
+
 ![image](https://github.com/user-attachments/assets/f8d3387d-8dd9-4087-bff2-36da7e3c4663)
+
+upon download completing yoou will see credentials for your wazauh instance
+
+![image](https://github.com/user-attachments/assets/f045a8f9-3b98-40c5-b293-224800927cc8)
 
 
 
