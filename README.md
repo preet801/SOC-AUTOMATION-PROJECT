@@ -38,7 +38,7 @@ curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-in
 
 upon download completing yoou will see credentials for your wazauh instance
 
-![image](https://github.com/user-attachments/assets/f045a8f9-3b98-40c5-b293-224800927cc8)
+![image](https://github.com/user-attachments/assets/458683b1-f817-4cc3-b070-197853242fa7)
 
 
 
