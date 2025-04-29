@@ -74,6 +74,8 @@ upon download completing yoou will see credentials for your wazauh instance
 
 ![image](https://github.com/user-attachments/assets/330407c3-04fa-4397-8724-0997ffcc4698)
 
+![image](https://github.com/user-attachments/assets/fec29534-3393-41e5-9f92-672b74e8da13)
+
 
 ![image](https://github.com/user-attachments/assets/ece581f2-44ee-478d-8458-c42f774f32ba)
 
