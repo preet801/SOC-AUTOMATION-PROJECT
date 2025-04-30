@@ -123,5 +123,6 @@ Hive's console
 create user in Hive
 ![image](https://github.com/user-attachments/assets/220a302e-c5a2-4b0b-8307-c10a1758e701)
 
+![image](https://github.com/user-attachments/assets/12fdaa7c-75fb-465d-b11b-e0ba696bff05)
 
 
