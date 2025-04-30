@@ -120,4 +120,8 @@ Hive's console
 
 ![image](https://github.com/user-attachments/assets/9f480655-b2e7-4b3c-827d-37452e5d4931)
 
+create user in Hive
+![image](https://github.com/user-attachments/assets/220a302e-c5a2-4b0b-8307-c10a1758e701)
+
+
 
