@@ -128,5 +128,8 @@ create user in Hive
 
 ![image](https://github.com/user-attachments/assets/2829610d-7bf7-42bc-888c-99ee13a3212f)
 
+![image](https://github.com/user-attachments/assets/034568b7-e037-4035-9a9c-9410db377e8c)
+
+
 
 
